@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0%;
+}
+
+header{
+    background-color:rgb(47, 134, 105);
+    color: blue;
+    text-align: center;
+    padding: 15px;
+}
+nav{
+    background-color: rgb(19, 19, 179);
+}
+main{
+    background-color:rgb(168, 89, 89);
+}
+footer{
+    background-color: rgb(146, 125, 125);
+    color: blue;
+    font-weight: bold;
+    padding: 20px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+
+}
+p{
+  text-align: justify;
+  line-height: 22px;  
+}
+
+img{
+    width: 100%;
+    margin: 20px auto;
+}
+
+.imagen{
+    width: 70%;
+    margin:  auto;
+}
+.galeria{
+    background-color: green;
+}
+.galeria img{
+    width: 220px;
+    height: 180px;
+    border: 1px solid rgb(15, 13, 117);
+    margin-right: 20px;
+    border-radius: 15px;
+
+}
+
+#diferente{
+    border-radius: 50%;
+}
